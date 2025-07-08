@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shreekanth
 - 👀 I’m interested in learning coding
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me shreekanth.k000001@gmail.com
